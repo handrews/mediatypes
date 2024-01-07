@@ -4,8 +4,8 @@
 
 HTTPAPI                                                         R. Polli
 Internet-Draft     Digital Transformation Department, Italian Government
-Intended status: Informational                          16 November 2023
-Expires: 19 May 2024
+Intended status: Informational                            7 January 2024
+Expires: 10 July 2024
 
 
                           REST API Media Types
@@ -50,11 +50,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 19 May 2024.
+   This Internet-Draft will expire on 10 July 2024.
 
 Copyright Notice
 
-   Copyright (c) 2023 IETF Trust and the persons identified as the
+   Copyright (c) 2024 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -94,8 +94,8 @@ Table of Contents
 
    To increase interoperability when processing API specifications and
    leverage content negotiation mechanisms when exchanging OpenAPI
-   Specification resources this specification register the following
-   media types: application/openapi+json and application/openapi+yaml.
+   description resources this specification register the following media
+   types: application/openapi+json and application/openapi+yaml.
 
 1.1.  Notational Conventions
 
