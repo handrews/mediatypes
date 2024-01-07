@@ -92,7 +92,7 @@ Table of Contents
    standard for describing HTTP APIs using the JSON [JSON] and YAML
    [YAML] data format.
 
-   To increase interoperability when processing API specifications and
+   To increase interoperability when processing API description and
    leverage content negotiation mechanisms when exchanging OpenAPI
    description resources this specification register the following media
    types: application/openapi+json and application/openapi+yaml.
