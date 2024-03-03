@@ -4,8 +4,9 @@
 
 HTTPAPI                                                         R. Polli
 Internet-Draft     Digital Transformation Department, Italian Government
-Intended status: Informational                            7 January 2024
-Expires: 10 July 2024
+Intended status: Informational                             J. Desrosiers
+Expires: 4 September 2024                                        Postman
+                                                            3 March 2024
 
 
                         JSON Schema Media Types
@@ -50,7 +51,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 10 July 2024.
+   This Internet-Draft will expire on 4 September 2024.
 
 Copyright Notice
 
@@ -87,7 +88,7 @@ Table of Contents
    FAQ
    Change Log
      Since -00
-   Author's Address
+   Authors' Addresses
 
 1.  Introduction
 
@@ -470,9 +471,9 @@ Table of Contents
 
    [OAS-MEDIATYPES]
               Polli, R., "REST API Media Types", Work in Progress,
-              Internet-Draft, draft-ietf-httpapi-rest-api-mediatypes-04,
-              6 September 2023, <https://datatracker.ietf.org/doc/html/
-              draft-ietf-httpapi-rest-api-mediatypes-04>.
+              Internet-Draft, draft-ietf-httpapi-rest-api-mediatypes-05,
+              7 January 2024, <https://datatracker.ietf.org/doc/html/
+              draft-ietf-httpapi-rest-api-mediatypes-05>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
@@ -549,9 +550,15 @@ Since -00
 
    *  Split YAML registrations in a separate I-D.
 
-Author's Address
+Authors' Addresses
 
    Roberto Polli
    Digital Transformation Department, Italian Government
    Italy
    Email: robipolli@gmail.com
+
+
+   Jason Desrosiers
+   Postman
+   United States of America
+   Email: jdesrosi@gmail.com
